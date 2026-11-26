@@ -1,0 +1,25 @@
+E-Commerce Business Analytics – Key Business Insights
+
+1. Customer Retention
+
+Out of 96,096 unique customers, 93,099 were one-time customers and only 2,997 were repeat customers. The repeat customer rate is approximately 3.12%. This indicates an opportunity to improve customer retention through loyalty programs and targeted offers.
+
+2. Customer Satisfaction
+
+The average customer review score is 4.09 out of 5, indicating a generally positive customer experience.
+
+3. Delivery Performance
+
+The average delivery time is 12.09 days. The minimum delivery time was 0 days, while the maximum was 209 days. Improving delivery efficiency can help enhance customer satisfaction.
+
+4. Revenue Performance
+
+The total revenue was R$16,008,872.12 BRL (Brazilian Real). Monthly revenue analysis showed that November 2017 recorded the highest revenue among the analyzed months.
+
+5. Payment Preferences
+
+Credit cards were the most commonly used payment method, followed by boleto, voucher, and debit card. This indicates a strong preference for credit card payments.
+
+Conclusion
+
+The analysis highlights opportunities to improve customer retention, delivery performance, and revenue growth while maintaining customer satisfaction. These insights can support better business decisions.
